@@ -107,3 +107,6 @@ Visit [Nx Cloud](https://nx.app/) to learn more.
 
 ### Github Actions
 Supercharging Your GitHub Workflow ( Pluralsight )
+
+Open a PR early in the process of working on a bug or feature.  Here you'll be able to start collaboration, and get feedback early in your work.
+This helps to introduce transparency and feedback into the team workflow.
